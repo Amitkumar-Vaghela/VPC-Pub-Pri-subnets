@@ -1,5 +1,12 @@
 # Build a Custom VPC with Public and Private Subnets  
 **Designing a Secure and Isolated AWS Network Architecture**
+## Architecture Screenshots
+
+### VPC and Subnet Configuration
+![VPC Setup](./Image/Screenshot%202026-01-27%20114913.png)
+
+### Route Table and Internet Gateway
+![Route Table Setup](./Image/Screenshot%202026-01-27%20120144.png)
 
 ---
 
